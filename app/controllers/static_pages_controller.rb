@@ -8,4 +8,7 @@ class StaticPagesController < ApplicationController
 	# this is an action
   def help
   end
+  # this is an action
+  def about
+  end
 end
